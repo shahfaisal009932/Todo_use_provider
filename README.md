@@ -1,16 +1,23 @@
-# todo_with_db_provider
+A simple and elegant ToDo application built with Flutter, featuring:
 
-A new Flutter project.
+Local database storage using Sqflite and State management (Provider)
 
-## Getting Started
+Beautiful & user-friendly UI design
 
-This project is a starting point for a Flutter application.
+Add, Complete and Filtered the Todo on the basis of Priority (Low, Medium, High), On the basis of completion (Completed, Pending) tasks easily
 
-A few resources to get you started if this is your first Flutter project:
+Persistent storage (tasks remain saved even after app restart)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+✅ Add Tasks – Quickly add new tasks with a title and description ✅ Checked the check box after the Tasks completion ✅ Filter Todo – Pending Todo/ Complete Todo Or on the basis of Priority (Low, Medium, High) ✅ Local Database – Data saved using SQLite (Sqflite plugin) ✅ Clean UI – Modern and intuitive user interface
+
+🛠️ Tech Stack
+
+Framework: Flutter
+
+Language: Dart
+
+Database: Sqflite (SQLite)
+
+State Management: (Provider)
